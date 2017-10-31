@@ -1,0 +1,3 @@
+0,0,0,0,0,0,0,
+
+//played, wins, losses, 2 of kinds, 3 of kinds, 4 of kinds, 5 of kinds
